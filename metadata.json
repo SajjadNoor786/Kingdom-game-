@@ -1,0 +1,6 @@
+{
+  "name": "Kingdoms & Banners",
+  "description": "A 3D medieval strategy, castle-building, and real-time battlefield game featuring King, Commander, and third-person Soldier modes with custom GLB/GLTF character model support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
